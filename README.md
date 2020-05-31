@@ -1,2 +1,3 @@
 # R6TBBatchTool
-Rainbow Six Trowback Batch Tool
+R6S: Operation Throwback
+Discord : https://discord.gg/26qrqed 
