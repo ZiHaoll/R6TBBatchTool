@@ -1,5 +1,6 @@
-
-::                        +hmNNNmh+   
+@echo off
+set homepath=%cd%
+::                        +hmNNNmh+    
 ::                       yMMMMMMMMMy  
 ::                       mMMMh hMMMd  
 ::                       mMMMh:oso:.  
@@ -14,7 +15,7 @@
 
 
 
-@echo off
+
 Title Rainbow Six Siege Version Downloader
 :menu
 echo ---------------------------------------

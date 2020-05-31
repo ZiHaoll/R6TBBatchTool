@@ -1,10 +1,11 @@
 @echo off
 
+set homepath=%cd%
 
 
 
 
-::                        +hmNNNmh+   
+::                        +hmNNNmh+    
 ::                       yMMMMMMMMMy  
 ::                       mMMMh hMMMd  
 ::                       mMMMh:oso:.  
@@ -13,7 +14,7 @@
 ::                       mMMs  `-sMd  
 ::              Trowback mMMy smMMMd  
 ::             Operation mMMy mMMMMd  
-::                       hMMy.NMMMMy  
+::                       hMMy.NMMMMy  discord.gg/26qrqed
 ::                       `ohmNMNmh+   
 :: Zer0Bytes#4428 https://i.imgur.com/nBKIDOX.png
 
@@ -108,7 +109,7 @@ echo Downloading DepotDownloader...
 echo ---------------------------------------
 curl -L "https://github.com/SteamRE/DepotDownloader/releases/download/DepotDownloader_2.3.5/depotdownloader-2.3.5.zip" --output depot.zip
 cls
-set homepath=%cd%
+
 
 :extract
 for %%I in ("depot.zip") do (

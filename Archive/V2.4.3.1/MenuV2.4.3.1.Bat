@@ -1,10 +1,10 @@
 @echo off
+set homepath=%cd%
 
 
 
 
-
-::                        +hmNNNmh+   
+::                        +hmNNNmh+    
 ::                       yMMMMMMMMMy  
 ::                       mMMMh hMMMd  
 ::                       mMMMh:oso:.  

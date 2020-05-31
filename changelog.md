@@ -37,5 +37,5 @@ fixed launch bugs
 -------------------------
 Updated Gui
 Removed the need for 7-zip installing
-Updated the Blood Orchid Manifest for the liberator
+Updated the Blood Orchid Manifest for the liberator 
 ```
