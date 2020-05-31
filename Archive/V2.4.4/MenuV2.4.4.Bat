@@ -16,9 +16,6 @@ set homepath=%cd%
 ::                       hMMy.NMMMMy  
 ::                       `ohmNMNmh+   
 :: Zer0Bytes#4428 https://i.imgur.com/nBKIDOX.png
-::7zip location
-::dont touch homepath
-
 
 
 goto versioncheck

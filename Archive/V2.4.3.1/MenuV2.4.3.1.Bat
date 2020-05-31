@@ -13,10 +13,9 @@
 ::                       mMMs  `-sMd  
 ::              Trowback mMMy smMMMd  
 ::             Operation mMMy mMMMMd  
-::                       hMMy.NMMMMy  
+::                       hMMy.NMMMMy  discord.gg/26qrqed
 ::                       `ohmNMNmh+   
 :: Zer0Bytes#4428 https://i.imgur.com/nBKIDOX.png
-
 
 
 

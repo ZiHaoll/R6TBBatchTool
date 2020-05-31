@@ -1,3 +1,19 @@
+
+::                        +hmNNNmh+   
+::                       yMMMMMMMMMy  
+::                       mMMMh hMMMd  
+::                       mMMMh:oso:.  
+::                       mMMMMMMMMMs  
+::                       mMMNdNNhmMd  
+::                       mMMs  `-sMd  
+::              Trowback mMMy smMMMd  
+::             Operation mMMy mMMMMd  
+::                       hMMy.NMMMMy  discord.gg/26qrqed
+::                       `ohmNMNmh+   
+:: Zer0Bytes#4428 https://i.imgur.com/nBKIDOX.png
+
+
+
 @echo off
 Title Rainbow Six Siege Version Downloader
 :menu
