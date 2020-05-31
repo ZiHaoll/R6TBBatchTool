@@ -9,7 +9,7 @@ set homepath=%cd%
 ::                       mMMs  `-sMd  
 ::              Trowback mMMy smMMMd  
 ::             Operation mMMy mMMMMd  
-::                       hMMy.NMMMMy  discord.gg/26qrqed
+::                       hMMy.NMMMMy  discord.gg/kDsDQFD
 ::                       `ohmNMNmh+   
 :: Zer0Bytes#4428 https://i.imgur.com/nBKIDOX.png
 
@@ -36,7 +36,7 @@ set /p version="Enter Number:"
 if %version%==9 ( 
 cls
 echo  /-----------------------------------\
-echo / Discord : discord.gg/26qrqed        \
+echo / Discord : discord.gg/kDsDQFD        \
 echo \-------------------------------------/
 pause
 cls

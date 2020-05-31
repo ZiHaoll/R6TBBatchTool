@@ -14,7 +14,7 @@ set homepath=%cd%
 ::                       mMMs  `-sMd  
 ::              Trowback mMMy smMMMd  
 ::             Operation mMMy mMMMMd  
-::                       hMMy.NMMMMy  discord.gg/26qrqed
+::                       hMMy.NMMMMy  discord.gg/kDsDQFD
 ::                       `ohmNMNmh+   
 :: Zer0Bytes#4428 https://i.imgur.com/nBKIDOX.png
 
@@ -28,7 +28,7 @@ echo 1 DepotDownloader
 echo 2 is Battleye Running?
 echo 3 Hack The Pentagon
 echo ---------------------------------------
-echo Discord : discord.gg/26qrqed
+echo Discord : discord.gg/kDsDQFD
 echo Version : 2.4.2
 echo ---------------------------------------
 echo Update Message : Mad House is currently disabled due to bad manifest's

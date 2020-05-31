@@ -13,7 +13,7 @@ set homepath=%cd%
 ::                       mMMs  `-sMd  
 ::              Trowback mMMy smMMMd  
 ::             Operation mMMy mMMMMd  
-::                       hMMy.NMMMMy  discord.gg/26qrqed
+::                       hMMy.NMMMMy  discord.gg/kDsDQFD
 ::                       `ohmNMNmh+   
 :: Zer0Bytes#4428 https://i.imgur.com/nBKIDOX.png
 
@@ -84,7 +84,7 @@ echo # Installing 7-zip no longer needed
 echo # Blood Orchid Manifest updated for liberator (hopefully)
 echo # smaller windows
 echo ----------------------------INFO----------------------------
-echo  Discord : discord.gg/26qrqed
+echo  Discord : discord.gg/kDsDQFD
 echo  Version : 2.5
 echo ---------------------------SELECT---------------------------
 echo  1 = DepotDownloader
